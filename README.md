@@ -15,8 +15,9 @@
 
 ### 連絡方法
 
-大変恐縮ではございますが、基本的に身内以外に
+大変恐縮ではございますが、基本的に家族及び友人以外に対しては
 コミュニケーション手段を開放しておりません。
+
 その為、もし私のソフトウェアに関するご連絡がございましたら、
 対応するリポジトリの方に書き込んでいただけると幸いです。
 
@@ -44,14 +45,14 @@ The two are a cute young lady and laid-back guy
 
 ### How to contact us
 
-We are very sorry, but basically we do not open our means of communication to anyone other than our own family members.
-I am not open to any means of communication with anyone other than my own family.
-Therefore, if you have any contact regarding my software, I would appreciate it if you could write to the corresponding repository.
+We are very sorry, but basically we do not open the means of communication to anyone other than family and friends.
+
+Therefore, if you have any contact regarding my software, I would appreciate it if you would write to
 I would appreciate it if you could write to the corresponding repository.
 
 However, I do not live in an English-speaking country and my English is not very good.
 Therefore, I may not be able to respond in some cases.
-we may not be able to respond to you in some cases, and jokes and word games may not be understood at all.
+Therefore, we may not be able to respond to you in some cases, and jokes and word games may not be understood at all.
 
 We hope you will understand that.
 
