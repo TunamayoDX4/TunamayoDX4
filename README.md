@@ -17,12 +17,12 @@
 基本的には静的型のコンパイラ言語を扱っております。
 経験のある言語は以下の通りです。
 
--Rust : 現在扱っているプロジェクトの大部分に使用しております。
--C++ : 2021年夏ころまでは主力で使用しておりました。
--C : C++を学ぶ前に扱っておりました。
--JavaScript : あまり詳しくはありませんがWebサイトの構築などに。
--Java : プログラミングを始めた動機はMinecraftのModの作成でした。
--Perl : 1990年代に作られたCGIの修正をした際に。
+- Rust : 現在扱っているプロジェクトの大部分に使用しております。 
+- C++ : 2021年夏ころまでは主力で使用しておりました。 
+- C : C++を学ぶ前に扱っておりました。 
+- JavaScript : あまり詳しくはありませんがWebサイトの構築などに。 
+- Java : プログラミングを始めた動機はMinecraftのModの作成でした。 
+- Perl : 1990年代に作られたCGIの修正をした際に。 
 
 
 ### 連絡方法
@@ -59,12 +59,12 @@ The two are a cute young lady and laid-back guy
 Basically, we deal with compiler languages of static types.
 The languages we have experience with are as follows.
 
--Rust : We use it for most of our current projects.
--C++ : I used it as my main language until the summer of 2021.
--C : I worked with C++ before I learned it.
--JavaScript : I am not very familiar with it, but I use it for building websites, etc.
--Java: I started programming when I created a Minecraft mod.
--Perl: I used Perl when I modified CGI code created in the 1990s.
+- Rust : We use it for most of our current projects.  
+- C++ : I used it as my main language until the summer of 2021.  
+- C : I worked with C++ before I learned it.  
+- JavaScript : I am not very familiar with it, but I use it for building websites, etc.  
+- Java: I started programming when I created a Minecraft mod.  
+- Perl: I used Perl when I modified CGI code created in the 1990s.  
 
 
 ### How to contact us
